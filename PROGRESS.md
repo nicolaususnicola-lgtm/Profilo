@@ -1,178 +1,58 @@
 # Nicola — Pilot Progress
 
-Questo documento registra il progresso del MyZubster / Zorgax LIFE Digital Business Pilot.
-
-Le informazioni dovrebbero essere aggiornate sulla base di attività realmente svolte ed evidenze disponibili.
+Questo documento sincronizza lo stato pubblico del profilo di Nicola con il repository principale **MyZubster**. Registra soltanto fatti documentati; attivazione runtime, risultati e validazione commerciale restano non confermati finché non esistono evidenze indipendenti.
 
 ## Stato corrente
 
-Fase:
+- Fase: `VALIDATION_ACTIVE`
+- Partecipante: **Nicola** ([`nicolaususnicola-lgtm`](https://github.com/nicolaususnicola-lgtm))
+- Repository MVP: [`nicolaususnicola-lgtm/myzubster-mvp`](https://github.com/nicolaususnicola-lgtm/myzubster-mvp)
+- Profilo canonico MyZubster: [`docs/NICOLA_LORENZINI_LIFE.md`](https://github.com/MyZubster-Ecosystem/myzubster/blob/main/docs/NICOLA_LORENZINI_LIFE.md)
+- Ultima sincronizzazione documentale: `2026-09-02`
 
-`ONBOARDING`
+## Identità Metaverso
 
-Ultimo aggiornamento:
+- Character ID: `N4K48`
+- Ruolo: `Explorer`
+- Area: `Neon Plaza`
+- Configurazione: preparata e collegata alla documentazione MyZubster
+- Attivazione live collegata all'account: `PENDING_TECHNICAL_VERIFICATION`
 
-`da compilare`
+La presenza della configurazione o di una pull request non dimostra da sola che l'avatar sia attivo in produzione.
 
-## Obiettivo
+## Pilot digitale
 
-Creare e testare un primo piccolo prodotto digitale seguendo un processo misurabile.
+### Selezione umana
 
-## Percorso
+- Idea selezionata: `project-planner-ai`
+- Titolo: **Project Planner per lavorare con AI/Zorgax**
+- Selezione: `CONFIRMED`
 
-### 1. Onboarding
+### MVP e test
 
-Stato:
+- Ambito MVP: `DEFINED`
+- Avvio del test: `PARTICIPANT_REPORTED_STARTED` il 31 agosto 2026
+- Risultato del test: `NOT_YET_COMPLETED`
+- Validazione commerciale: `NOT_CLAIMED`
+- Deployment: `NOT_CLAIMED`
 
-`IN CORSO`
+## Collegamento GitHub / MyZubster
 
-Attività:
+- Identità GitHub pubblica: `VERIFIED_PUBLIC_PROFILE`
+- Completamento login riferito dal partecipante: `PARTICIPANT_REPORTED_COMPLETE`
+- Collegamento OAuth MyZubster verificato nel runtime: `PENDING_TECHNICAL_VERIFICATION`
+- Automazione Zorgax: `ENABLED`
+- Modalità modifiche: `BRANCH → COMMIT → PULL REQUEST → HUMAN REVIEW`
+- Merge automatico: `DISABLED`
 
-- definizione obiettivo personale;
-- definizione tempo disponibile;
-- scelta formato iniziale;
-- configurazione account e strumenti.
+## Prossimo gate
 
-Evidenze:
+1. verificare tecnicamente il collegamento GitHub nel runtime MyZubster;
+2. verificare l'attivazione live di `N4K48`;
+3. completare il test delimitato del Project Planner;
+4. raccogliere solo evidenze reali e minimizzate;
+5. applicare i criteri `GO / CHANGE / STOP` con decisione umana.
 
-`da aggiungere`
+## Limiti
 
-### 2. Idee
-
-Stato:
-
-`DA INIZIARE`
-
-Idee candidate:
-
-1. da compilare;
-2. da compilare;
-3. da compilare.
-
-Decisione umana:
-
-`nessuna selezione ancora registrata`
-
-### 3. Validazione
-
-Stato:
-
-`DA INIZIARE`
-
-Ipotesi da verificare:
-
-- cliente;
-- problema;
-- valore;
-- interesse;
-- disponibilità a considerare l'offerta.
-
-Esperimenti:
-
-`da definire`
-
-Evidenze raccolte:
-
-`nessuna`
-
-### 4. Product Blueprint
-
-Stato:
-
-`DA INIZIARE`
-
-Prodotto:
-
-`da definire`
-
-Deliverable principali:
-
-`da definire`
-
-Cosa NON farà parte della prima versione:
-
-`da definire`
-
-### 5. Offerta
-
-Stato:
-
-`DA INIZIARE`
-
-Proposta di valore:
-
-`da definire`
-
-Ipotesi di prezzo:
-
-`da definire`
-
-Decisione umana sul prezzo:
-
-`non ancora effettuata`
-
-### 6. Lancio
-
-Stato:
-
-`DA INIZIARE`
-
-Pubblicazione:
-
-`non autorizzata automaticamente`
-
-Canali:
-
-`da definire`
-
-### 7. Misurazione
-
-Metriche possibili:
-
-- tempo idea → prodotto;
-- costo di creazione;
-- visite;
-- interesse qualificato;
-- conversioni;
-- vendite;
-- rimborsi;
-- richieste di supporto;
-- ricavi;
-- costi;
-- apprendimento ottenuto.
-
-## Decision Log
-
-### Decisione 001
-
-Data:
-
-`da compilare`
-
-Decisione:
-
-`da compilare`
-
-Decisa da:
-
-`Nicola`
-
-Supporto Zorgax:
-
-`da compilare`
-
-Evidenze considerate:
-
-`da compilare`
-
-## Prossime azioni
-
-1. completare onboarding;
-2. proporre 3 idee;
-3. confrontare le idee con Zorgax;
-4. selezionare umanamente una idea;
-5. avviare la validazione.
-
----
-
-Zorgax può suggerire aggiornamenti a questo documento, ma non deve inventare attività o risultati che non siano realmente avvenuti.
+Questo stato non prova vendite, ricavi, partnership, finanziamenti, adozione, risultato commerciale o partecipazione a un progetto ufficiale LIFE dell'Unione europea. Credenziali, token, email private e altri dati sensibili non devono essere pubblicati.
