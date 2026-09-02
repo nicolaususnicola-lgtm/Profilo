@@ -21,9 +21,7 @@ L'identità account-linked non equivale a identità legale verificata. Una roadm
 
 ## Collegamento al progetto
 
-Il documento tecnico e la roadmap verificabile sono proposti nel repository MyZubster:
-
-- [N4K48 — percorso MVP verso Neon Plaza](https://github.com/nicolaususnicola-lgtm/myzubster/blob/docs/n4k48-mvp-status/docs/n4k48/README.md)
+Il documento tecnico e la roadmap verificabile sono proposti nella [pull request MyZubster #1](https://github.com/nicolaususnicola-lgtm/myzubster/pull/1).
 
 ## Modalità di aggiornamento
 
